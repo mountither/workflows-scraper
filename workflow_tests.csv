@@ -1,0 +1,299 @@
+Commit Message,Date Executed,Duration,Branch Name,Test Comment,Pass
+fix: rendering fixes,"Oct 19, 2021, 4:19 PM GMT+11",2m 4s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: other fixes,"Oct 19, 2021, 2:48 PM GMT+11",2m 32s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: removed file due to rename,"Oct 19, 2021, 11:51 AM GMT+11",2m 20s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(manager.account): back button hides when editing,"Oct 19, 2021, 10:48 AM GMT+11",2m 11s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 19, 2021, 10:46 AM GMT+11",2m 7s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: other fixes,"Oct 19, 2021, 10:34 AM GMT+11",2m 19s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Merge branch 'monti/merge/mustafa-customers-tab' into monti/feat/mana…,"Oct 18, 2021, 6:48 PM GMT+11",2m 7s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: account details screen fixed + othe merge issues resolved,"Oct 18, 2021, 6:46 PM GMT+11",2m 24s,monti/merge/mustafa-customers-tab,This workflow run completed successfully.,TRUE
+#NAME?,"Oct 17, 2021, 5:06 PM GMT+11",2m 23s,anomaly-functions,This workflow run completed successfully.,TRUE
+Fixed rejection note not showing,"Oct 17, 2021, 4:39 PM GMT+11",2m 19s,anomaly-functions,This workflow run completed successfully.,TRUE
+Improved UI,"Oct 17, 2021, 4:25 PM GMT+11",2m 2s,anomaly-functions,This workflow run completed successfully.,TRUE
+Fixed condition,"Oct 17, 2021, 3:18 PM GMT+11",2m 21s,anomaly-functions,This workflow run completed successfully.,TRUE
+Reduced margin between cards,"Oct 17, 2021, 3:06 PM GMT+11",2m 21s,anomaly-functions,This workflow run failed.,FALSE
+#NAME?,"Oct 17, 2021, 3:02 PM GMT+11",2m 0s,anomaly-functions,This workflow run failed.,FALSE
+#NAME?,"Oct 17, 2021, 2:50 PM GMT+11",2m 13s,anomaly-functions,This workflow run completed successfully.,TRUE
+My Account screens,"Oct 17, 2021, 1:17 PM GMT+11",2m 30s,mustafa-customers-tab,This workflow run completed successfully.,TRUE
+fix: component calls fixes,"Oct 17, 2021, 1:22 AM GMT+11",2m 2s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(pkgs): react-native-collapsible-top-tab version bump,"Oct 16, 2021, 10:55 PM GMT+11",2m 16s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+refactor: removed old files due to refactor,"Oct 16, 2021, 6:27 PM GMT+11",2m 13s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+#NAME?,"Oct 16, 2021, 1:43 PM GMT+11",2m 31s,mustafa-customers-tab,This workflow run completed successfully.,TRUE
+fix: removed createmechanic component,"Oct 15, 2021, 11:53 PM GMT+11",2m 5s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+chore(functions): create customers field update,"Oct 15, 2021, 10:26 PM GMT+11",2m 8s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: height fix,"Oct 15, 2021, 2:00 PM GMT+11",2m 13s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+feat(mngr.mech.list): added search feature,"Oct 15, 2021, 1:48 PM GMT+11",2m 34s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: optional chaining,"Oct 15, 2021, 1:09 PM GMT+11",2m 10s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(report): navigate to report fix,"Oct 15, 2021, 12:48 PM GMT+11",2m 34s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: customer bottom sheet fix,"Oct 15, 2021, 11:56 AM GMT+11",2m 16s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(mngr.customer.dash): bottom sheet fix,"Oct 15, 2021, 11:51 AM GMT+11",2m 20s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+chore(firestore.rules): fs rules update,"Oct 15, 2021, 11:06 AM GMT+11",2m 39s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+feat(mechanic.report): mechanic can now navigate to report,"Oct 15, 2021, 11:04 AM GMT+11",2m 41s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(joblist): styling fixes,"Oct 15, 2021, 10:48 AM GMT+11",2m 10s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: removed old files,"Oct 15, 2021, 10:47 AM GMT+11",2m 12s,mustafa-customers-tab,This workflow run completed successfully.,TRUE
+fix: removed old files,"Oct 15, 2021, 10:33 AM GMT+11",2m 37s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+refactor(mapconfig): added mapconfig file with initial region,"Oct 15, 2021, 9:31 AM GMT+11",2m 14s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+style(myjobs): removed old callout,"Oct 14, 2021, 6:48 PM GMT+11",3m 5s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: component/test fixes,"Oct 14, 2021, 6:29 PM GMT+11",2m 19s,mustafa-final-job-card-implementation,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 14, 2021, 6:22 PM GMT+11",2m 9s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: styling + other cleanup,"Oct 14, 2021, 5:59 PM GMT+11",2m 18s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Updated callout,"Oct 14, 2021, 3:06 PM GMT+11",1m 45s,mustafa-final-job-card-implementation,This workflow run failed.,FALSE
+Updated marker callout,"Oct 14, 2021, 2:54 PM GMT+11",2m 26s,mustafa-final-job-card-implementation,This workflow run failed.,FALSE
+Update NewJobCard.js,"Oct 14, 2021, 2:38 PM GMT+11",1m 52s,mustafa-final-job-card-implementation,This workflow run failed.,FALSE
+Updated Name to name,"Oct 14, 2021, 2:35 PM GMT+11",2m 21s,mustafa-final-job-card-implementation,This workflow run failed.,FALSE
+Replaced JobCard with NewJobCard,"Oct 14, 2021, 2:28 PM GMT+11",2m 16s,mustafa-final-job-card-implementation,This workflow run failed.,FALSE
+fix(route): user detail dispatch fix,"Oct 14, 2021, 2:24 PM GMT+11",2m 43s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Update Header.js,"Oct 14, 2021, 10:19 AM GMT+11",2m 14s,mustafa-add-mechanic-modal,This workflow run completed successfully.,TRUE
+Added toast msg + save details function + prevented manager from edit…,"Oct 14, 2021, 9:44 AM GMT+11",2m 24s,mustafa-add-mechanic-modal,This workflow run completed successfully.,TRUE
+Merge branch 'mustafa-add-mechanic-modal' of https://github.com/mount…,"Oct 14, 2021, 9:31 AM GMT+11",3m 2s,mustafa-add-mechanic-modal,This workflow run completed successfully.,TRUE
+fix: function fixes,"Oct 13, 2021, 6:19 PM GMT+11",2m 20s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+style(mngr.mechanic.dash): syntax fix,"Oct 13, 2021, 5:51 PM GMT+11",2m 41s,mustafa-add-mechanic-modal,This workflow run completed successfully.,TRUE
+feat(booking.selection): date scheduled is now fetched everytime moda…,"Oct 13, 2021, 5:43 PM GMT+11",2m 48s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 13, 2021, 5:26 PM GMT+11",2m 45s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+feat(myjobs): new callout view for marker,"Oct 13, 2021, 5:20 PM GMT+11",2m 56s,monti/merge/job-card-v2,This workflow run completed successfully.,TRUE
+feat(pkgs): ios pkg changes,"Oct 13, 2021, 1:35 PM GMT+11",2m 42s,monti/merge/job-card-v2,This workflow run completed successfully.,TRUE
+Node.js CI,"Oct 13, 2021, 1:01 PM GMT+11",2m 16s,mustafa-add-mechanic-modal,This workflow run completed successfully.,TRUE
+Merge branch 'mustafa-job-card' of https://github.com/mountither/amw-…,"Oct 12, 2021, 11:04 PM GMT+11",2m 20s,mustafa-job-card,This workflow run completed successfully.,TRUE
+fix: bottom sheet render fix,"Oct 12, 2021, 10:49 PM GMT+11",2m 24s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: bottom sheet render fix,"Oct 12, 2021, 10:48 PM GMT+11",2m 51s,monti/merge/mustafa-job-card,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 12, 2021, 10:43 PM GMT+11",2m 46s,monti/merge/mustafa-job-card,This workflow run completed successfully.,TRUE
+fix: firestore key value fix (name),"Oct 12, 2021, 10:26 PM GMT+11",2m 43s,mustafa-job-card,This workflow run completed successfully.,TRUE
+test(asyncstorage.mock): added asyncstorage mock,"Oct 12, 2021, 9:19 PM GMT+11",2m 29s,monti/setup/translations,This workflow run completed successfully.,TRUE
+Repositioned close cross on left,"Oct 12, 2021, 6:36 PM GMT+11",2m 24s,mustafa-job-card,This workflow run completed successfully.,TRUE
+Updated NewJobCard,"Oct 12, 2021, 6:35 PM GMT+11",2m 42s,mustafa-job-card,This workflow run completed successfully.,TRUE
+Added some anomaly support (may need more work/testing),"Oct 12, 2021, 5:13 PM GMT+11",2m 54s,mustafa-job-card,This workflow run completed successfully.,TRUE
+feat(pkgs): ios pkg changes,"Oct 12, 2021, 12:26 PM GMT+11",2m 12s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+feat(pkg): package changes,"Oct 12, 2021, 9:23 AM GMT+11",2m 21s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(customer.tab.mngr): fixes to bottom sheet and navigation away,"Oct 11, 2021, 4:40 PM GMT+11",2m 14s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: pkg fixes,"Oct 11, 2021, 4:28 PM GMT+11",2m 8s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(myjobs.mngr): show contact card prop fix,"Oct 11, 2021, 8:50 AM GMT+11",2m 5s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(route): toast message fixes,"Oct 10, 2021, 4:43 PM GMT+11",2m 3s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(authsaga): sign out fixess,"Oct 10, 2021, 4:41 PM GMT+11",2m 43s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(authsaga): sign out fixess,"Oct 10, 2021, 4:41 PM GMT+11",2m 4s,monti/merge/luke-anomaly-accounts,This workflow run completed successfully.,TRUE
+fix(feedlist): feedlist fix,"Oct 10, 2021, 3:56 PM GMT+11",2m 5s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+feat(anomaly): update anomaly stuffs,"Oct 10, 2021, 3:56 PM GMT+11",2m 41s,luke/feat/anomaly,This workflow run completed successfully.,TRUE
+fix(pkgs): package changes,"Oct 10, 2021, 3:54 PM GMT+11",2m 23s,luke/feat/anomaly,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 10, 2021, 3:07 PM GMT+11",2m 15s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+UP,"Oct 10, 2021, 12:02 AM GMT+11",2m 20s,mustafa-my-jobs-tab,This workflow run completed successfully.,TRUE
+Update NewJobCard.js,"Oct 9, 2021, 10:50 PM GMT+11",2m 5s,mustafa-my-jobs-tab,This workflow run completed successfully.,TRUE
+Added dynamic height feature to tooltip in NewJobCard,"Oct 9, 2021, 9:53 PM GMT+11",2m 8s,mustafa-my-jobs-tab,This workflow run completed successfully.,TRUE
+fix(pkgs): package changes,"Oct 9, 2021, 6:52 PM GMT+11",2m 5s,luke/feat/Account,This workflow run completed successfully.,TRUE
+Added more LOGIC to JobCard (I think it's basically done),"Oct 9, 2021, 4:11 PM GMT+11",2m 19s,mustafa-my-jobs-tab,This workflow run completed successfully.,TRUE
+"More work on My Jobs Tab, still working on NewJobCard","Oct 9, 2021, 2:28 PM GMT+11",2m 3s,mustafa-my-jobs-tab,This workflow run completed successfully.,TRUE
+All three accountpages with component added,"Oct 9, 2021, 12:01 AM GMT+11",2m 24s,luke/feat/Account,This workflow run completed successfully.,TRUE
+Merge branch 'eugene/feat/newReport' into monti/feat/manager-app,"Oct 8, 2021, 10:55 PM GMT+11",2m 29s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(ios): ios pkg add,"Oct 8, 2021, 10:52 PM GMT+11",2m 11s,eugene/feat/newReport,This workflow run completed successfully.,TRUE
+feat (report) new report,"Oct 8, 2021, 9:20 PM GMT+11",2m 8s,eugene/feat/newReport,This workflow run completed successfully.,TRUE
+fix(manager.tabs): view history is within jobarchive navigation,"Oct 8, 2021, 9:19 PM GMT+11",2m 7s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(dormant): loading spinner position fixed,"Oct 8, 2021, 8:53 PM GMT+11",2m 23s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: zero lat and lng fallback,"Oct 8, 2021, 8:49 PM GMT+11",2m 34s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(mngr.dash.cust): readded latitude and longitude check (falls back…,"Oct 8, 2021, 8:44 PM GMT+11",2m 9s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: remove image in param,"Oct 8, 2021, 8:38 PM GMT+11",2m 9s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix (Report.js) new report format,"Oct 8, 2021, 6:02 PM GMT+11",2m 9s,eugene/feats/report,This workflow run failed.,FALSE
+fix(pianos): removed on unfocus effect,"Oct 8, 2021, 5:45 PM GMT+11",2m 13s,monti/feat/manager-app,This workflow run failed.,FALSE
+fix(pianos): toast message fix,"Oct 8, 2021, 5:44 PM GMT+11",1m 45s,monti/feat/manager-app,This workflow run failed.,FALSE
+style(edit.article): syntax fix,"Oct 8, 2021, 5:32 PM GMT+11",2m 41s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+More work on My Jobs tab,"Oct 8, 2021, 4:27 PM GMT+11",20s,mustafa-my-jobs-tab,This workflow run failed.,FALSE
+wired up report.js,"Oct 8, 2021, 2:37 PM GMT+11",2m 20s,eugene/feats/report,This workflow run failed.,FALSE
+fix(articleCard) remove date,"Oct 8, 2021, 1:41 PM GMT+11",2m 24s,eugene/feat/option-meny,This workflow run completed successfully.,TRUE
+feat (viewLog) add view log screen into option menu,"Oct 8, 2021, 1:36 PM GMT+11",2m 3s,eugene/feat/option-meny,This workflow run failed.,FALSE
+fix(manager.myjobs): scroll fixed for android and ios,"Oct 8, 2021, 1:13 PM GMT+11",2m 10s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Merge branch 'mustafa-my-jobs-tab' into monti/feat/manager-app,"Oct 8, 2021, 12:33 PM GMT+11",2m 22s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: scroll view + style fixes,"Oct 8, 2021, 12:32 PM GMT+11",2m 19s,mustafa-my-jobs-tab,This workflow run completed successfully.,TRUE
+My Jobs Tab,"Oct 8, 2021, 12:09 PM GMT+11",2m 13s,mustafa-my-jobs-tab,This workflow run completed successfully.,TRUE
+fix: removed empty style,"Oct 8, 2021, 11:25 AM GMT+11",2m 13s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 8, 2021, 10:21 AM GMT+11",2m 0s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix (viewReport) fetch report based on service_ref,"Oct 7, 2021, 11:48 PM GMT+11",1m 43s,eugene/feat/option-meny,This workflow run failed.,FALSE
+feat(viewReport) add view report for customer,"Oct 7, 2021, 10:01 PM GMT+11",1m 58s,eugene/feat/option-meny,This workflow run failed.,FALSE
+feat(managerjobcard): jobs scheduled and unscheduled,"Oct 7, 2021, 3:42 PM GMT+11",2m 27s,hargun/feat/managerjobcard,This workflow run completed successfully.,TRUE
+Update FeedList.js,"Oct 7, 2021, 2:47 PM GMT+11",1m 48s,mustafa-news-ui,This workflow run failed.,FALSE
+Changed bottom border to shadow,"Oct 7, 2021, 2:39 PM GMT+11",1m 39s,mustafa-news-ui,This workflow run failed.,FALSE
+Repositioned My Jobs tab,"Oct 7, 2021, 2:33 PM GMT+11",2m 4s,mustafa-managers-dashboard-customer-tab,This workflow run completed successfully.,TRUE
+Reduced top margin,"Oct 7, 2021, 2:28 PM GMT+11",1m 47s,mustafa-news-ui,This workflow run failed.,FALSE
+Improved title line height,"Oct 7, 2021, 2:26 PM GMT+11",1m 49s,mustafa-news-ui,This workflow run failed.,FALSE
+Changed image crop ratio,"Oct 7, 2021, 2:24 PM GMT+11",2m 8s,mustafa-news-ui,This workflow run failed.,FALSE
+"Improvements to article detail, edit article, etc.","Oct 7, 2021, 2:23 PM GMT+11",2m 3s,mustafa-news-ui,This workflow run failed.,FALSE
+fix (PianoCard) handle anomoly status for customer piano card,"Oct 7, 2021, 1:14 PM GMT+11",1m 43s,eugene/feat/option-meny,This workflow run failed.,FALSE
+Merge branch 'eugene/feat/option-meny' of https://github.com/mountith…,"Oct 7, 2021, 12:59 PM GMT+11",1m 53s,eugene/feat/option-meny,This workflow run failed.,FALSE
+Improved ArticleDetails UI,"Oct 7, 2021, 11:34 AM GMT+11",1m 51s,mustafa-news-ui,This workflow run failed.,FALSE
+Updated ArticleCard look,"Oct 7, 2021, 9:57 AM GMT+11",2m 12s,mustafa-news-ui,This workflow run failed.,FALSE
+Added loader for when loading more + increased fetch limit from 10 to 15,"Oct 7, 2021, 9:03 AM GMT+11",2m 7s,mustafa-previous-records-ui,This workflow run completed successfully.,TRUE
+Fixed deleted records not showing,"Oct 6, 2021, 9:39 PM GMT+11",2m 2s,mustafa-previous-records-ui,This workflow run completed successfully.,TRUE
+fix(article.card): article card fixes (impacting tests),"Oct 6, 2021, 8:06 PM GMT+11",2m 24s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: article carousel not slided due to touchable opacity,"Oct 6, 2021, 7:53 PM GMT+11",2m 14s,mustafa-news-ui,This workflow run failed.,FALSE
+fix: using moment to show publish date + tests now work,"Oct 6, 2021, 7:48 PM GMT+11",2m 6s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Merge branch 'mustafa-managers-dashboard-customer-tab' into monti/fea…,"Oct 6, 2021, 7:41 PM GMT+11",2m 7s,monti/feat/manager-app,This workflow run failed.,FALSE
+fix: merge issues fixed,"Oct 6, 2021, 7:36 PM GMT+11",1m 55s,monti/feat/manager-app,This workflow run failed.,FALSE
+fix: merge issues fixed,"Oct 6, 2021, 7:35 PM GMT+11",2m 12s,monti/merge/eugene-option-meny,This workflow run failed.,FALSE
+UI improvements to FeedList and ArticleCard,"Oct 6, 2021, 7:28 PM GMT+11",1m 44s,mustafa-news-ui,This workflow run failed.,FALSE
+fix: ios fixes + styling adjustments,"Oct 6, 2021, 7:21 PM GMT+11",1m 59s,eugene/feat/option-meny,This workflow run failed.,FALSE
+fix(tests): test fixes,"Oct 6, 2021, 6:32 PM GMT+11",2m 33s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(tests): test fixes,"Oct 6, 2021, 6:21 PM GMT+11",2m 7s,monti/merge/mustafa-ui-improv,This workflow run completed successfully.,TRUE
+fix(tests): ignoring tests for this commit,"Oct 6, 2021, 5:38 PM GMT+11",1m 24s,mustafa-ui-improvements,This workflow run completed successfully.,TRUE
+Improved marker UI + added show on map feature,"Oct 6, 2021, 2:16 PM GMT+11",2m 21s,mustafa-managers-dashboard-customer-tab,This workflow run completed successfully.,TRUE
+fix(daterangepicker.filter): fixed elevation and positioning of dater…,"Oct 5, 2021, 10:05 PM GMT+11",2m 9s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 5, 2021, 9:12 PM GMT+11",2m 33s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(maps): map fixes + coord listener,"Oct 5, 2021, 8:05 PM GMT+11",1m 24s,hargun/feat/managermyjobs,This workflow run completed successfully.,TRUE
+Node.js CI,"Oct 5, 2021, 4:14 PM GMT+11",1m 21s,hargun/feat/managermyjobs,This workflow run completed successfully.,TRUE
+Minor styling improvements,"Oct 5, 2021, 3:33 PM GMT+11",2m 9s,mustafa-ui-improvements,This workflow run failed.,FALSE
+fix: package + ios installs upd,"Oct 5, 2021, 2:59 PM GMT+11",2m 27s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Node.js CI,"Oct 5, 2021, 2:53 PM GMT+11",2m 46s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(toast message): fix toast message,"Oct 5, 2021, 12:19 PM GMT+11",2m 7s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix (ArticleCard),"Oct 4, 2021, 5:39 PM GMT+11",2m 46s,eugene/feat/option-meny,This workflow run completed successfully.,TRUE
+fix(article card),"Oct 4, 2021, 5:35 PM GMT+11",1m 47s,eugene/feat/option-meny,This workflow run failed.,FALSE
+Merge branch 'eugene/feat/option-meny' of https://github.com/mountith…,"Oct 4, 2021, 5:28 PM GMT+11",1m 42s,eugene/feat/option-meny,This workflow run failed.,FALSE
+Reduced header proportions + added header to customer's My Pianos tab,"Oct 4, 2021, 11:25 AM GMT+11",2m 8s,mustafa-ui-improvements,This workflow run failed.,FALSE
+fix (ArticleCard ArticleDetails) readded the date,"Oct 3, 2021, 7:18 PM GMT+11",2m 5s,eugene/feat/option-meny,This workflow run failed.,FALSE
+fix: onsnapshot listener fix + ios pods installs,"Oct 3, 2021, 5:58 PM GMT+11",1m 48s,mustafa-ui-improvements,This workflow run failed.,FALSE
+fix: uPDFRef variable fix,"Oct 3, 2021, 4:40 PM GMT+11",2m 2s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(edit.articles): more conditional checks @ article deletion,"Oct 3, 2021, 4:36 PM GMT+11",2m 30s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(edit.articles): route params changes and conditional checks,"Oct 3, 2021, 4:33 PM GMT+11",2m 6s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: test fixes + component refactor,"Oct 3, 2021, 3:28 PM GMT+11",2m 6s,monti/merge/mustafa-piano-tab-icon,This workflow run completed successfully.,TRUE
+refactor(pdfreader): added shared modal folder + pdf reader modal nav…,"Oct 3, 2021, 3:27 PM GMT+11",2m 6s,monti/merge/mustafa-piano-tab-icon,This workflow run completed successfully.,TRUE
+fix (build.gradle) enable multidex for android build,"Oct 3, 2021, 11:21 AM GMT+11",2m 29s,eugene/feat/option-meny,This workflow run completed successfully.,TRUE
+feat: manager can view jobs assigned to him,"Oct 3, 2021, 8:11 AM GMT+11",1m 35s,hargun/feat/managermyjobs,This workflow run completed successfully.,TRUE
+fix: removed unnecessary ttf file from infoplist,"Oct 2, 2021, 9:07 PM GMT+10",2m 11s,mustafa-corrections-all-account-tabs,This workflow run failed.,FALSE
+refactor(pdfreader): added shared modal folder + pdf reader modal nav…,"Oct 2, 2021, 8:43 PM GMT+10",1m 59s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Node.js CI,"Oct 2, 2021, 8:09 PM GMT+10",2m 29s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Node.js CI,"Oct 2, 2021, 7:55 PM GMT+10",2m 22s,monti/merge/eugene-piano-service,This workflow run completed successfully.,TRUE
+Connected Previous screens to FS,"Oct 2, 2021, 7:37 PM GMT+10",2m 2s,mustafa-ui-improvements,This workflow run failed.,FALSE
+feat: added new modal + fs fetch fixes + other styling fixes,"Oct 2, 2021, 5:17 PM GMT+10",1m 21s,eugene/feat/article,This workflow run failed.,FALSE
+"feat(job card, request service modal, history card) add option menu f…","Oct 2, 2021, 3:45 PM GMT+10",1m 50s,eugene/feat/article,This workflow run completed successfully.,TRUE
+fix: myjobs bottomsheet styling fix,"Oct 2, 2021, 2:34 PM GMT+10",2m 3s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 2, 2021, 2:27 PM GMT+10",2m 10s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Oct 2, 2021, 2:22 PM GMT+10",2m 0s,monti/merge/luke-manager-customers,This workflow run completed successfully.,TRUE
+fix: package + ios pod reinstall,"Oct 2, 2021, 2:09 PM GMT+10",2m 1s,luke/feat/manager-customer,This workflow run completed successfully.,TRUE
+Removed non-existing reference,"Oct 2, 2021, 1:46 PM GMT+10",1m 51s,mustafa-ui-improvements,This workflow run failed.,FALSE
+fix: merge issue fixed,"Oct 2, 2021, 1:42 PM GMT+10",2m 43s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issue fixed,"Oct 2, 2021, 1:41 PM GMT+10",2m 6s,monti/merge/android-splash-icon,This workflow run completed successfully.,TRUE
+feat: new util helpers for relevant components,"Oct 2, 2021, 1:40 PM GMT+10",2m 27s,monti/merge/android-splash-icon,This workflow run completed successfully.,TRUE
+Node.js CI,"Oct 2, 2021, 1:17 PM GMT+10",2m 7s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Previous Records UI,"Oct 2, 2021, 1:06 PM GMT+10",1m 45s,mustafa-ui-improvements,This workflow run failed.,FALSE
+Updated manager's dashboard header + tabs,"Oct 1, 2021, 5:30 PM GMT+10",1m 52s,mustafa-ui-improvements,This workflow run failed.,FALSE
+Fixed 1/2 test issues,"Oct 1, 2021, 3:56 PM GMT+10",2m 0s,mustafa-corrections-all-account-tabs,This workflow run failed.,FALSE
+Delete Piano.svg,"Oct 1, 2021, 3:39 PM GMT+10",1m 37s,mustafa-corrections-all-account-tabs,This workflow run failed.,FALSE
+UI improvements to modal top bar and job filter,"Oct 1, 2021, 1:21 PM GMT+10",2m 3s,mustafa-ui-improvements,This workflow run completed successfully.,TRUE
+"Set Android app name to ""AMW""","Oct 1, 2021, 12:04 PM GMT+10",2m 20s,mustafa-corrections-all-account-tabs,This workflow run failed.,FALSE
+Corrected user tabs + icons,"Oct 1, 2021, 12:02 PM GMT+10",1m 48s,mustafa-corrections-all-account-tabs,This workflow run failed.,FALSE
+"fix (ViewServiceModal, HistoryCard) fix small UI problem and import","Sep 30, 2021, 4:54 PM GMT+10",2m 5s,eugene/feat/article,This workflow run completed successfully.,TRUE
+"fix (viewHistory, ServiceRequestModal) fix view history issue and mak…","Sep 30, 2021, 4:16 PM GMT+10",2m 5s,eugene/feat/article,This workflow run completed successfully.,TRUE
+feat(manager-customer tab & new component custoemrcard): implement th…,"Sep 30, 2021, 1:10 PM GMT+10",2m 5s,luke/feat/manager-customer,This workflow run completed successfully.,TRUE
+message,"Sep 30, 2021, 12:18 AM GMT+10",2m 1s,luke/feat/manager-assign,This workflow run completed successfully.,TRUE
+Added Android app icon,"Sep 29, 2021, 9:07 PM GMT+10",2m 17s,mustafa-feat-android-splash-screen,This workflow run completed successfully.,TRUE
+Updated create new account screen,"Sep 28, 2021, 5:10 PM GMT+10",2m 32s,customer-signup,This workflow run completed successfully.,TRUE
+fix: merge fix issues,"Sep 28, 2021, 5:02 PM GMT+10",2m 5s,monti/merge/cust-services,This workflow run failed.,FALSE
+feat add view history,"Sep 28, 2021, 4:52 PM GMT+10",1m 50s,eugene/feat/article,This workflow run completed successfully.,TRUE
+fix (pianos) fix performance issue and view service request,"Sep 28, 2021, 4:15 PM GMT+10",2m 6s,eugene/feat/article,This workflow run completed successfully.,TRUE
+"fix (article card, pianos, pianocard) fix a bug that render the badge…","Sep 28, 2021, 3:27 PM GMT+10",2m 11s,eugene/feat/article,This workflow run completed successfully.,TRUE
+fix: assign mechanic list modal navigation fixed,"Sep 28, 2021, 2:33 PM GMT+10",2m 14s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Created forgot password screen,"Sep 28, 2021, 1:57 PM GMT+10",2m 23s,customer-signup,This workflow run completed successfully.,TRUE
+fix: merge issues fix,"Sep 28, 2021, 1:29 PM GMT+10",2m 1s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fix,"Sep 28, 2021, 1:26 PM GMT+10",2m 21s,monti/merge/auth-screens,This workflow run completed successfully.,TRUE
+fix: added 'australia-southeast1' region for saga,"Sep 28, 2021, 1:25 PM GMT+10",1m 59s,monti/merge/auth-screens,This workflow run completed successfully.,TRUE
+Added WelcomeScreen,"Sep 28, 2021, 1:19 PM GMT+10",2m 24s,customer-signup,This workflow run completed successfully.,TRUE
+fix: merge issues fix,"Sep 28, 2021, 1:03 PM GMT+10",2m 35s,monti/merge/cust-services,This workflow run failed.,FALSE
+fix: added 'australia-southeast1' region for saga,"Sep 28, 2021, 11:09 AM GMT+10",1m 59s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Enhanced signup screen,"Sep 28, 2021, 8:50 AM GMT+10",2m 22s,customer-signup,This workflow run completed successfully.,TRUE
+fix: data fetch + component logic fixes + merge fixes,"Sep 27, 2021, 10:53 PM GMT+10",2m 16s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+Node.js CI,"Sep 27, 2021, 9:42 PM GMT+10",2m 31s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: import fixes,"Sep 27, 2021, 9:09 PM GMT+10",2m 29s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(mapmarker): styling + other fixes,"Sep 27, 2021, 8:22 PM GMT+10",1m 23s,hargun/feat/managermap,This workflow run completed successfully.,TRUE
+chore: removed files,"Sep 26, 2021, 10:26 PM GMT+10",2m 32s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(jobfiltermodal): styling and logic fixes,"Sep 25, 2021, 4:22 PM GMT+10",2m 4s,manager-job-archive,This workflow run completed successfully.,TRUE
+Completed Job Archive filter,"Sep 25, 2021, 2:18 PM GMT+10",2m 7s,manager-job-archive,This workflow run completed successfully.,TRUE
+Fixed loader on first load + end of list padding,"Sep 24, 2021, 8:40 PM GMT+10",2m 2s,manager-job-archive,This workflow run completed successfully.,TRUE
+Fixed date range picker in JobFilterModal.js,"Sep 23, 2021, 5:33 PM GMT+10",2m 17s,manager-job-archive,This workflow run completed successfully.,TRUE
+feat(manager dashboard): customers displayed on a map,"Sep 23, 2021, 10:45 AM GMT+10",1m 23s,hargun/feat/managermap,This workflow run completed successfully.,TRUE
+feat(/manager/dashboard/tabscreen/newjob & manager/dashboard/tabscree…,"Sep 22, 2021, 8:01 PM GMT+10",1m 21s,luke/feat/manager-assign-feats,This workflow run failed.,FALSE
+Updated JobCard.js,"Sep 22, 2021, 6:51 PM GMT+10",2m 18s,manager-job-archive,This workflow run completed successfully.,TRUE
+Refactored JobList,"Sep 22, 2021, 5:48 PM GMT+10",1m 46s,manager-job-archive,This workflow run completed successfully.,TRUE
+Fixed suburb and job filter interaction,"Sep 22, 2021, 5:48 PM GMT+10",1m 40s,manager-job-archive,This workflow run failed.,FALSE
+Added Manager's Job Archive,"Sep 22, 2021, 10:04 AM GMT+10",3m 59s,manager-job-archive,This workflow run completed successfully.,TRUE
+Updated StatusBadge,"Sep 22, 2021, 10:03 AM GMT+10",2m 8s,manager-job-archive,This workflow run completed successfully.,TRUE
+"feat remake view service modal, add badge to pianos screen, make stat…","Sep 21, 2021, 9:55 PM GMT+10",2m 24s,eugene/feat/article,This workflow run completed successfully.,TRUE
+"feat (pianos, assets, view service) Add View active service and view …","Sep 19, 2021, 1:27 PM GMT+10",1m 47s,eugene/feat/article,This workflow run completed successfully.,TRUE
+fix: merge issues fix,"Sep 18, 2021, 2:35 PM GMT+10",2m 8s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+feat(dashboard.tabs): scroll out the header on customer tab press,"Sep 18, 2021, 2:27 PM GMT+10",2m 30s,monti/feat/mngr-cstmr-bottom-sheet,This workflow run completed successfully.,TRUE
+"fix (article, service request modal) add publish date to article scre…","Sep 18, 2021, 12:27 PM GMT+10",1m 48s,eugene/feat/article,This workflow run completed successfully.,TRUE
+feat(editarticles): get + update article,"Sep 16, 2021, 10:04 PM GMT+10",1m 46s,eugene/feat/article,This workflow run completed successfully.,TRUE
+Node.js CI,"Sep 16, 2021, 9:10 PM GMT+10",1m 59s,eugene/feat/article,This workflow run completed successfully.,TRUE
+feat(editarticle): new edit article screen for manager,"Sep 16, 2021, 8:41 PM GMT+10",2m 24s,eugene/feat/article,This workflow run completed successfully.,TRUE
+Co-authored-by: mountither <mountither@users.noreply.github.com>,"Sep 16, 2021, 8:26 PM GMT+10",1m 25s,eugene/feat/article,This workflow run completed successfully.,TRUE
+fix(feedslice): fixes to reducer functions,"Sep 16, 2021, 6:09 PM GMT+10",2m 4s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(feedslice): fixes to reducer functions,"Sep 16, 2021, 6:05 PM GMT+10",2m 17s,monti/fixes/articles-fetch,This workflow run completed successfully.,TRUE
+feat(article.details): implemented on scroll header for article detai…,"Sep 7, 2021, 11:35 AM GMT+10",1m 55s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Sep 6, 2021, 1:57 PM GMT+10",2m 4s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Sep 6, 2021, 1:56 PM GMT+10",2m 17s,monti/refactor/articles,This workflow run completed successfully.,TRUE
+fix: removed unnecessary files,"Sep 6, 2021, 1:36 PM GMT+10",1m 31s,eugene/feat/article,This workflow run completed successfully.,TRUE
+add edit button and date and author to article details,"Sep 2, 2021, 11:17 PM GMT+10",1m 40s,eugene/feat/article,This workflow run completed successfully.,TRUE
+fix(notifications.redux): not listening to Foreground messages in sag…,"Sep 2, 2021, 1:28 PM GMT+10",1m 13s,eugene/feat/article,This workflow run completed successfully.,TRUE
+fix: merge fixes + import fixes + comments added,"Aug 30, 2021, 9:52 AM GMT+10",1m 54s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+test: changes to test configs and feedlist test file,"Aug 30, 2021, 9:32 AM GMT+10",1m 44s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+feat(manager-mechanic screen/assign&complete): complete the implement…,"Aug 24, 2021, 10:28 AM GMT+10",1m 26s,luke/feat/mechanic-detail-job,This workflow run completed successfully.,TRUE
+fix(notifications.redux): not listening to Foreground messages in sag…,"Aug 23, 2021, 2:13 PM GMT+10",1m 23s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed,"Aug 21, 2021, 12:34 PM GMT+10",1m 19s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+style: badge status color scheme added + new job refactoring,"Aug 21, 2021, 12:27 PM GMT+10",1m 23s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix(completed.js): included return and views,"Aug 21, 2021, 12:19 PM GMT+10",1m 12s,luke/feature/manager-mechanic-screen,This workflow run completed successfully.,TRUE
+feat(all screen tags under mechanic.js): complete detail.js and set u…,"Aug 21, 2021, 12:12 PM GMT+10",1m 23s,luke/feature/manager-mechanic-screen,This workflow run completed successfully.,TRUE
+refactor: removed unecessary data + code cleanup,"Aug 21, 2021, 10:36 AM GMT+10",1m 11s,monti/fixes/customer-service-request,This workflow run completed successfully.,TRUE
+feat: added Service Request Feature,"Aug 20, 2021, 8:58 PM GMT+10",1m 14s,customer-C-service,This workflow run completed successfully.,TRUE
+Merge branch 'monti/feat/manager-app' into customer-C-service,"Aug 20, 2021, 8:58 PM GMT+10",1m 13s,customer-C-service,This workflow run completed successfully.,TRUE
+Continued ServiceRequestModal,"Aug 20, 2021, 6:00 PM GMT+10",1m 28s,customer-C-service,This workflow run completed successfully.,TRUE
+ServiceRequestModal,"Aug 20, 2021, 5:37 PM GMT+10",1m 19s,customer-C-service,This workflow run completed successfully.,TRUE
+fix: syntac and other fixes that may have been impacted by api refactor,"Aug 20, 2021, 5:37 PM GMT+10",1m 5s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: merge issues fixed with pkg installs,"Aug 20, 2021, 5:36 PM GMT+10",1m 22s,customer-C-service,This workflow run completed successfully.,TRUE
+fix: syntac and other fixes that may have been impacted by api refactor,"Aug 20, 2021, 4:09 PM GMT+10",1m 19s,monti/refactor/fe-api-calls-to-cloud-func,This workflow run completed successfully.,TRUE
+feat: change the layout and detail for the manager dashboard machanic…,"Aug 19, 2021, 9:32 PM GMT+10",1m 9s,luke/feature/manager-mechanic-screen,This workflow run completed successfully.,TRUE
+feat(managerdashboard): connect mechanic screen to firestore and make…,"Aug 19, 2021, 5:55 PM GMT+10",1m 5s,luke/feature/manager-mechanic-screen,This workflow run completed successfully.,TRUE
+fix: merge issues fixed with pkg installs,"Aug 19, 2021, 11:36 AM GMT+10",1m 15s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+fix: fixed merge issues,"Aug 19, 2021, 11:34 AM GMT+10",25s,monti/feat/manager-app,This workflow run failed.,FALSE
+chore: makefile updates,"Aug 17, 2021, 6:13 PM GMT+10",1m 7s,luke/feature/manager-mechanic-screen,This workflow run completed successfully.,TRUE
+feat: tabs inside mechanics tabs + styling changes,"Aug 17, 2021, 6:09 PM GMT+10",1m 13s,luke/feature/manager-mechanic-screen,This workflow run completed successfully.,TRUE
+feat: status of job card,"Aug 17, 2021, 1:19 PM GMT+10",1m 21s,hargun/feature/managerjobs,This workflow run completed successfully.,TRUE
+fix: handle navigate on log out,"Aug 17, 2021, 1:09 PM GMT+10",1m 8s,luke/feature/manager-mechanic-screen,This workflow run completed successfully.,TRUE
+fix: handle navigate on log out,"Aug 17, 2021, 12:39 PM GMT+10",1m 8s,monti/feat/manager-app,This workflow run completed successfully.,TRUE
+style: background change,"Aug 17, 2021, 12:18 PM GMT+10",1m 13s,monti/chore/merge-with-CR-piano,This workflow run completed successfully.,TRUE
+feat: using onSnapshot to listen to piano updates,"Aug 17, 2021, 11:35 AM GMT+10",1m 8s,monti/chore/merge-with-CR-piano,This workflow run completed successfully.,TRUE
+fix(firestore): small fixes,"Aug 17, 2021, 10:14 AM GMT+10",1m 6s,monti/chore/merge-with-CR-piano,This workflow run completed successfully.,TRUE
+fix: another package-lock fix (rerun npm i),"Aug 16, 2021, 7:12 PM GMT+10",1m 10s,monti/chore/merge-with-CR-piano,This workflow run completed successfully.,TRUE
+fix: package-lock json removed due to error encountered on workflow s…,"Aug 16, 2021, 7:11 PM GMT+10",22s,monti/chore/merge-with-CR-piano,This workflow run failed.,FALSE
+fix: fixed merge issue,"Aug 16, 2021, 7:03 PM GMT+10",18s,monti/chore/merge-with-CR-piano,This workflow run failed.,FALSE
+feat: added a job card component for manager app,"Aug 16, 2021, 6:03 PM GMT+10",1m 8s,hargun/feature/managerjobs,This workflow run completed successfully.,TRUE
+style: styling fixes for android,"Aug 16, 2021, 5:29 PM GMT+10",1m 3s,monti/feature/mngr-dash-top-tabs,This workflow run completed successfully.,TRUE
+feat: customer can create and read pianos,"Aug 16, 2021, 2:47 PM GMT+10",25s,customer-CR-pianos,This workflow run failed.,FALSE
+fix: using navigation method to share params between siblin screens,"Aug 14, 2021, 6:02 PM GMT+10",1m 7s,monti/feature/mngr-dash-top-tabs,This workflow run completed successfully.,TRUE
+Merge branch 'develop' of https://github.com/mountither/amw-app into …,"Aug 12, 2021, 1:38 PM GMT+10",58s,hargun/feature/managerjobs,This workflow run completed successfully.,TRUE
+refactor: made appropriate changes to the dashboard tabs,"Aug 11, 2021, 9:27 AM GMT+10",1m 1s,monti/feature/mngr-dash-top-tabs,This workflow run completed successfully.,TRUE
+feat(manager screens/navigation): manager's dashboard includes a basi…,"Aug 10, 2021, 10:15 PM GMT+10",1m 13s,monti/feature/mngr-dash-top-tabs,This workflow run completed successfully.,TRUE
+Merge branch 'develop' of https://github.com/mountither/amw-app into …,"Aug 10, 2021, 2:40 PM GMT+10",1m 3s,monti/feature/mngr-dash-top-tabs,This workflow run completed successfully.,TRUE
+Node.js CI,"Aug 10, 2021, 11:59 AM GMT+10",1m 3s,develop,This workflow run completed successfully.,TRUE
+"feat(manager home): when user clicks on notification, custom handling…","Aug 10, 2021, 11:36 AM GMT+10",56s,experimental/FCM,This workflow run completed successfully.,TRUE
+fix(preview workflow): cleaned workflow,"Aug 9, 2021, 3:32 PM GMT+10",58s,experimental/FCM,This workflow run completed successfully.,TRUE
+style: spelling fixes/refactor app navigation,"Aug 9, 2021, 3:30 PM GMT+10",39s,experimental/FCM,This workflow run completed successfully.,TRUE
+testing discord commit bot with GitHub webhooks,"Aug 9, 2021, 3:17 PM GMT+10",35s,experimental/FCM,This workflow run completed successfully.,TRUE
+updated preview.yml with discord commit bot,"Aug 8, 2021, 1:46 PM GMT+10",41s,experimental/FCM,This workflow run completed successfully.,TRUE
+test(authorisation screens): added check (error msg) at useEffect bef…,"Aug 8, 2021, 10:43 AM GMT+10",35s,experimental/FCM,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 7, 2021, 8:10 PM GMT+10",1m 14s,main,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 4:57 PM GMT+10",1m 23s,main,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 4:52 PM GMT+10",1m 14s,main,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 1:59 PM GMT+10",42s,develop,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 1:58 PM GMT+10",59s,main,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 12:15 PM GMT+10",1m 12s,main,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 11:51 AM GMT+10",37s,develop,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 11:18 AM GMT+10",1m 16s,main,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 11:04 AM GMT+10",34s,develop,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 11:01 AM GMT+10",1m 0s,main,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 10:50 AM GMT+10",35s,develop,This workflow run completed successfully.,TRUE
+Update README.md,"Aug 6, 2021, 10:37 AM GMT+10",53s,develop,This workflow run completed successfully.,TRUE
+refactor(models- dimensions): a file config for common window measure…,"Aug 6, 2021, 8:52 AM GMT+10",50s,develop,This workflow run completed successfully.,TRUE
+refactor(models- dimensions): a file config for common window measure…,"Aug 6, 2021, 8:43 AM GMT+10",40s,implm_base_features,This workflow run completed successfully.,TRUE
+feat(managerscreen): manager accomadates article feed,"Aug 4, 2021, 7:37 PM GMT+10",49s,implm_base_features,This workflow run completed successfully.,TRUE
+refactor(screens/navigation): changes impacted by redux refactor and …,"Aug 4, 2021, 4:39 PM GMT+10",46s,implm_base_features,This workflow run completed successfully.,TRUE
+"style(fonts): now relying on font weight type file, rather than style…","Aug 4, 2021, 12:55 PM GMT+10",46s,implm_base_features,This workflow run completed successfully.,TRUE
+refactor(navigation): refactoring nav tabs and stack,"Aug 3, 2021, 1:44 PM GMT+10",39s,implm_base_features,This workflow run completed successfully.,TRUE
+fix: refactor + redux saga functions interact with cloud functions now,"Aug 2, 2021, 9:23 PM GMT+10",39s,implm_base_features,This workflow run completed successfully.,TRUE
+fix(test): fixes,"Aug 2, 2021, 12:19 AM GMT+10",41s,implm_base_features,This workflow run completed successfully.,TRUE
+fix(preview workflow): fixes,"Aug 2, 2021, 12:08 AM GMT+10",47s,implm_base_features,This workflow run failed.,FALSE
+refactor: reimplemented components from prototype,"Aug 2, 2021, 12:07 AM GMT+10",1s,implm_base_features,This workflow run failed at startup.,FALSE
+fix(packages): fixed missing semantic release,"Aug 1, 2021, 4:44 PM GMT+10",1m 25s,main,This workflow run completed successfully.,TRUE
+fix(workflows/package): package json fixes,"Aug 1, 2021, 4:41 PM GMT+10",20s,main,This workflow run failed.,FALSE
